@@ -1,0 +1,198 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,600&family=Raleway:wght@500&display=swap'); */
+
+.container{
+    background-color: #ffffff;
+    color: black;
+    padding-top: 20px;
+   padding-bottom: 10%;
+
+}
+.cardheading1{
+    /* Vision */
+
+position: absolute;
+width: 169.01px;
+height: 35.61px;
+left: 125.08px;
+top: 1495.72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 56px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.cardheading2{
+position: absolute;
+width: 169.01px;
+height: 35.61px;
+left: 519.08px;
+top: 1495.72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 56px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.cardheading3{
+
+position: absolute;
+width: 169.01px;
+height: 35.61px;
+left: 910.08px;
+top: 1495.72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 56px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.cardtxt1{
+    /* To be a world-class SaaS Player for healthcare */
+
+position: absolute;
+width: 375.38px;
+height: 127.77px;
+left: 50px;
+top: 1550.65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #636363;
+
+
+}
+.cardtxt2{
+    /* To be a world-class SaaS Player for healthcare */
+
+position: absolute;
+width: 375.38px;
+height: 127.77px;
+left: 445px;
+top: 1550.65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #636363;
+
+
+}
+.cardtxt3{
+    /* To be a world-class SaaS Player for healthcare */
+
+position: absolute;
+width: 375.38px;
+height: 127.77px;
+left: 835px;
+top: 1550.65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #636363;
+
+
+}
+.cards p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 2%;
+    text-align: center;
+    justify-content: center;
+    color: #636363;
+    margin-bottom: 20px; /* Add margin to the bottom of the paragraph */
+}
+
+.container h1{
+    color: #5F687B;
+    /* font-family: 'Poppins'; */
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 63px;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.card{
+    display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   gap: 40px;
+}
+.cards {
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 18px 0px #63636354;
+    border-bottom: 20px solid transparent; /* Add a transparent border to create space at the bottom */
+}
+
+
+/* .cards img{
+    margin: 0 0 0 5% ;
+   
+} */
+.cards h2{
+    
+   font-family: 'Poppins',sans-serif;
+   font-weight: 550;
+   font-size: 30px;
+   line-height: 50px;
+   align-items: center;
+   color: #000000;
+  padding-left: 32%;
+
+}
+/* .cards:hover{
+    background-color: navy;
+    color: white;
+    transition: 0.6s;
+}
+.cards h2:hover{
+    background-color: navy;
+    color: white;
+    transition: 0.6s;
+}
+.cards p:hover{
+    background-color: navy;
+    color: white;
+    transition: 0.6s;
+} */
